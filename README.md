@@ -1,21 +1,32 @@
-Prediction of poisonous mushrooms
+# Prediction of Poisonous Mushrooms
 
+This is a machine learning project that uses **Random Forest Classification** to determine whether a mushroom is poisonous or edible. The project showcases my skills in data preprocessing, feature selection, and modeling, as well as the interpretability of Random Forest through feature importance analysis.
 
-This is a machine learning project that uses Random Forest classification to determine whether a mushroom is poisonous or edible.
+---
 
-This project showcases my basic skills in data preprocessing, choosing correct features, and modeling.
+## Features
 
-It also shows the interpretability of the Random Forest classification through feature importance analysis.
+- **Data Preprocessing**: Cleaning and preparing the dataset for machine learning.
+- **Feature Selection**: Identifying the most important features for classification.
+- **Random Forest Model**: Building and training a Random Forest classifier.
+- **Interpretability**: Analyzing feature importance to understand the model's decision-making process.
 
+---
 
-Technology Stack
+## Technology Stack
 
-Python
+- **Python** – Core programming language.
+- **Scikit-learn** – Machine learning library for building and evaluating models.
+- **Pandas** – Data manipulation and preprocessing.
+- **NumPy** – Numerical computations and data transformations.
+- **Matplotlib** – Data visualization.
 
-Scikit-learn - Machine learning.
+---
 
-Pandas - Data manipulation and preprocessing.
+## Getting Started
 
-NumPy - Data transformations.
-
-Matplotlib - Visualization of data.
+### Prerequisites
+- [Python](https://www.python.org/downloads/) (version 3.8 or later)
+- Required Python libraries:
+  ```bash
+  pip install pandas numpy scikit-learn matplotlib
